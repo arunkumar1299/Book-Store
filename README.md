@@ -1,26 +1,16 @@
 # Book Store MERN stack project
 
-## Lessons
+Hello Guys, I have developed a full-stack Bookstore application using the MERN (MongoDB, Express.js, React.js, Node.js) stack with the help of freeCodeCamp.
 
-- [x] Lesson 01: Create Node.js project from scratch
-- [x] Lesson 02: Create our first Http Route
-- [x] Lesson 03: Add MongoDB and mongoose to node js
-- [x] Lesson 04: Create Book model with mongoose
-- [x] Lesson 05: Save a new Book with mongoose
-- [x] Lesson 06: Get All Books with mongoose
-- [x] Lesson 07: Get One Book by id with mongoose
-- [x] Lesson 08: Update a Book with mongoose
-- [x] Lesson 09: Delete a book with mongoose
-- [x] Lesson 10: Refactor Node js with express router
-- [x] Lesson 11: CORS policy in Node js and Express js
-- [x] Lesson 12: Create React project, Vite, Tailwind CSS
-- [x] Lesson 13: SPA and Add react router dom
-- [x] Lesson 14: Show Books List in React
-- [x] Lesson 15: Show Book Details in React
-- [x] Lesson 16: Create Book in React
-- [x] Lesson 17: Edit Book in React
-- [x] Lesson 18: Delete Book in React
-- [x] Lesson 19: Show Books List as Card
-- [x] Lesson 20: Make Book Card a single component
-- [x] Lesson 21: Add Book Modal
-- [x] Lesson 22: Improve User Experience (UX) with beautiful alert
+For backend:
+1️⃣ Built a robust Node.js backend with MongoDB and Mongoose.
+2️⃣ Created, read, updated, and deleted book records via RESTful APIs.
+3️⃣ Utilized Express.js routers for backend organization.
+4️⃣ Implemented CORS policy for secure frontend-backend communication.
+
+For Frontend:
+1️⃣ Set up a React project with Vite and Tailwind CSS.
+2️⃣ Implemented Single Page Application (SPA) architecture with React Router DOM.
+3️⃣ Developed intuitive UI for listing, viewing, adding, editing, and deleting books.
+4️⃣ Enhanced user experience with stylish alerts and modularized components.
+🔹 I have learned in knowledge about MERN stack development, database modeling, RESTful API design, and UI/UX enhancements. 
